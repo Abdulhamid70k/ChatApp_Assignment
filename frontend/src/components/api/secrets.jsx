@@ -1,0 +1,1 @@
+export const API_URL = "https://chatapp-pg39.onrender.com";
